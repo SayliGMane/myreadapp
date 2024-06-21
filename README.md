@@ -11,6 +11,7 @@ The purpose of the My Read App Database is to maintain the data of our readers, 
 4. How many books do we have per category?
 5. How many books do we have per read status?
 
+
 ## How to run
 Before running this application, you should first setup the virtual environment, database, environment variables, install packages and optionally add fake data.
 
