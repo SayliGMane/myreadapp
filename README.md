@@ -67,12 +67,12 @@ $ source .venv/bin/activate
 Install all packages
 
 ```bash
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Start App
 From the working directly, run the following command
 ```bash
-$ python3 -m src.main
+python3 -m src.main
 ```
 You will be presented with a menu. Continue by selecting the options you want.
